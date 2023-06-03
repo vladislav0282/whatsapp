@@ -9,8 +9,13 @@ function Navbar() {
     <div>
 
       <h1>Whatsapp</h1>
+
       <NavLink to="chat1">
-        {user ? (<p>{user}</p>) : 'User1'}
+        <p>
+          {user ? (<p>{user}</p>) : 'User1'}
+
+        </p>
+
       </NavLink>
       <NavLink to="chat2">
         <p>User 2</p>
@@ -20,6 +25,9 @@ function Navbar() {
       </NavLink>
       <NavLink to="chat4">
         <p>User 4</p>
+      </NavLink>
+      <NavLink to="chat5">
+        <p>User 5</p>
       </NavLink>
     </div>
   )
