@@ -1,0 +1,12 @@
+
+
+.menu{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-left: auto;
+    gap: 8px;
+    
+}
+

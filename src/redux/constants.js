@@ -1,0 +1,11 @@
+export const REDUX_LS_KEY = 'REDUX_LS_KEY'
+// export const REDUX_LS_KEY_COUNT = 'REDUX_LS_KEY_COUNT'
+export const MESSAGE_OUTPUT = 'MessageOutput'
+export const MESSAGE_INPUT = 'MessageInput'
+export const MESSAGE_OUTPUT2 = 'MessageOutput2'
+export const MESSAGE_INPUT2 = 'MessageInput2'
+// export const REVIEWS_LS_KEY = 'REVIEWS_LS_KEY'
+// export const USERS_LS_KEY = 'USERS_LS_KEY'
+export const REVIEWS = 'REVIEWS'
+
+export const MESSAGE_3 = 'Message3'
